@@ -29,7 +29,7 @@ Você pode conferir o Figma da aplicação clicando [aqui](https://www.figma.com
 ## Link do projeto pronto
 
 <a href = "https://code-conect-react.vercel.app/#" class = "link">Clique aqui para acessar o projeto</a>
-</br> </br> </br>
+</br> </br>
 ## Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">

@@ -26,6 +26,8 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 Você pode conferir o Figma da aplicação clicando [aqui](https://www.figma.com/file/SASyBm2k3IlqrO8qI1Otg1/CodeConnect-%7C-React%3A-Componentização-e-conceitos-básicos-(JSX)).
 
+## Link do projeto pronto
+
 <a href = "https://code-conect-react.vercel.app/#" class = "link">Clique aqui para acessar o projeto</a>
 </br> </br> </br>
 ## Tecnologias
